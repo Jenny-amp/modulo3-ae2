@@ -1,0 +1,19 @@
+body{
+
+  background:#f4f7fb;
+
+  font-family:Arial;
+
+  text-align:center;
+
+  padding-top:80px;
+}
+
+.texto-rojo{
+
+  color:#8a3a8d;
+
+  font-size:60px;
+
+  transition:0.3s;
+}
